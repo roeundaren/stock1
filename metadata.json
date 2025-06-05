@@ -1,0 +1,6 @@
+{
+  "name": "ប្រព័ន្ធគ្រប់គ្រងស្តុកសម្ភារៈ (Stock Management System)",
+  "description": "កម្មវិធីគេហទំព័រ React សម្រាប់គ្រប់គ្រងស្តុកទំនិញ រួមមានការកត់ត្រាស្តុកចូល ស្តុកចេញ ការគ្រប់គ្រងអ្នកប្រើប្រាស់ និងការទាញទិន្នន័យជា Excel។ (A React web application for managing inventory, including stock-in, stock-out, user management, and Excel export.)",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
